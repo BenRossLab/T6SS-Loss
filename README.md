@@ -6,22 +6,24 @@ The code is structured around the figures presented in the paper. For each figur
 
 For example:
 
-    * To reproduce the analysis for Figure 1, run the script lib/Figure1.py.
-    * For Figure 2, use lib/Figure2.py, and so forth.
+ * To reproduce the analysis for Figure 1, run the script lib/Figure1.py.
+ * For Figure 2, use lib/Figure2.py, and so forth.
 
 ### Requirements
+**Python 3.x**
 
-    ### **Python 3.x**
-    * numpy
-    * pandas
-    * tqdm
-    * ete3
-    ### **R**
-    * tidyverse
-    * ape
-    * phyloseq
-    * vegan
-    * extrafont (Assumes Arial font has been installed)
+ * numpy
+ * pandas
+ * tqdm
+ * ete3
+
+**R**
+
+ * tidyverse
+ * ape
+ * phyloseq
+ * vegan
+ * extrafont (Assumes Arial font has been installed)
     
 
 ### Contact
